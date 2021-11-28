@@ -1,0 +1,30 @@
+body{
+    background-color: #ffe3ee;
+}
+
+.bgNav {
+    background: linear-gradient(#6dc880, #ffff7a);
+  }
+
+
+.bgAmarilloRosa{
+    background: linear-gradient(#ffff7a, #ffe3ee);
+}
+
+.text-black{
+    color: black;
+}
+
+.pZW{
+    font-size: 3em;
+    font-weight: bold;
+    margin: auto;
+}
+
+.tSmall{
+    font-size: 1.5em;
+}
+
+.tBig{
+    font-size: 2em;
+}
