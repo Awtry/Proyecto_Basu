@@ -1,14 +1,14 @@
 body{
-    background-color: #ffe3ee;
+    background-color: #fdc858;
 }
 
 .bgNav {
-    background: linear-gradient(#6dc880, #ffff7a);
+    background: #fbf7eb;
   }
 
 
 .bgAmarilloRosa{
-    background: linear-gradient(#ffff7a, #ffe3ee);
+    background: linear-gradient(#fbf7eb, #fdc858);
 }
 
 .text-black{
@@ -27,4 +27,10 @@ body{
 
 .tBig{
     font-size: 2em;
+}
+
+.pExpo{
+    font-size: 6em;
+    font-weight: bold;
+    margin: auto;
 }
