@@ -1,5 +1,5 @@
 body{
-    background-color: #fdc858;
+    background-color: #fbf7eb;
 }
 
 .bgNav {
@@ -8,11 +8,18 @@ body{
 
 
 .bgAmarilloRosa{
-    background: linear-gradient(#fbf7eb, #fdc858);
+    background: linear-gradient(#fbf7eb, #fbf7eb);
 }
 
 .text-black{
     color: black;
+}
+
+.mb--2{
+    margin-bottom: -2em;
+}
+.mt--2{
+    margin-top: -2em;
 }
 
 .pZW{
@@ -33,4 +40,14 @@ body{
     font-size: 6em;
     font-weight: bold;
     margin: auto;
+}
+
+.blkbtn{
+    background-color:#588dfd ;
+    border-radius: 25px;
+    text-decoration: none !important;
+}
+
+.roundimg{
+    border-radius: 50px;
 }
